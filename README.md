@@ -9,7 +9,7 @@ permanence. By leveraging our novel Blockweave datastructure, data is stored
 in a decentralised, peer-to-peer manner where miners are incentivised to
 store rare data.
 
-# Getting Started
+# Getting Started.
 
 Download and extract the latest archive for your platform on the release
 page, then run the included `bin/start` script to get started.
